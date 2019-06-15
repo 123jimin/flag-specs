@@ -5,3 +5,9 @@ body {
   background-color: #FCFCFC
   color: #111;
 }
+
+a.github-ribbon {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
