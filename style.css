@@ -11,3 +11,7 @@ a.github-ribbon {
   right: 0;
   top: 0;
 }
+
+span.color-sq {
+  width: 1em; height: 1em;
+}
