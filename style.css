@@ -1,0 +1,7 @@
+/* The stylesheet for basically the whole site. */
+
+body {
+  font-family: sans-serif;
+  background-color: #FCFCFC
+  color: #111;
+}
